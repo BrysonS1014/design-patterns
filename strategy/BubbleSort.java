@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Collections;
-
+/**
+ * Implementation of BubbleSort
+ */
 public class BubbleSort implements SortBehavior {
     @Override
     public void sort(ArrayList<Appartment> appartments) {
