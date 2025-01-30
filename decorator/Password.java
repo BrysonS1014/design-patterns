@@ -1,5 +1,5 @@
 /**
- * 
+ * Password Templete
  */
 public abstract class Password {
     
