@@ -9,7 +9,5 @@ public abstract class Password {
      * 
      * @return password
      */
-    public String getPassword() {
-        return password;
-    }
+    public abstract String getPassword();
 }
