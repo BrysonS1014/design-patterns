@@ -23,6 +23,7 @@ public class EasyPassword extends Password{
     /**
      * Returns the generated password
      */
+    @Override
     public String getPassword() {
 
         return password;
