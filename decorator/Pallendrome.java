@@ -17,6 +17,7 @@ public class Pallendrome extends PasswordDecorator{
      * Returns the pallendrome version of the password
      * @return the modified password
      */
+    @Override
     public String getPassword() {
 
         String basePassword = passwordBeginning.getPassword();
