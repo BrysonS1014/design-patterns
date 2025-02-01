@@ -12,7 +12,7 @@ public class EasyPassword extends Password{
 
         Random rand = new Random(); 
 
-        int randInt = rand.nextInt(101);
+        int randInt = rand.nextInt(100);
 
         this.password = phrase;
 
