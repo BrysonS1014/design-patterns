@@ -7,7 +7,7 @@ public class EnglishState extends State {
     private static final String HAPPY_FILE_NAME = "happy-english.txt";
 
     /**
-     * Constructs MusicBox with the English State
+     * Constructs English State with the MusicBox
      * @param box State of the music box
      */
     public EnglishState(MusicBox box) {
