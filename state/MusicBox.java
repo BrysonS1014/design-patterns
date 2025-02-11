@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Music Box that can switch songs and languages
+ * @author Bryson
  */
 public class MusicBox {
 

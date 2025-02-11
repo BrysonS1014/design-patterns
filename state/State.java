@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 /**
- * Abstract class of State representing the common functionalities 
+ * Abstract class of State representing the common functionalities
+ * @author Bryson
  */
 public abstract class State {
 

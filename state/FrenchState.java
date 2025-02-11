@@ -1,5 +1,6 @@
 /**
  * French State to play the French lyrics of Twinkle and Happy
+ * @author Bryson
  */
 public class FrenchState extends State {
     private static final String TWINKLE_FILE_NAME = "twinkle-french.txt";
